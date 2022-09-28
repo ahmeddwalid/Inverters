@@ -43,7 +43,7 @@ This type of inverters is the most common, it features a circuitry more complex 
 
 
 <!-- SINE WAVE INVERTER -->
-## Sine wave inverters
+## Sine wave inverter
 
 ![Output waveform](images/Sine.png"Output waveform")
 
