@@ -23,7 +23,7 @@
 <!-- SQUARE WAVE INVERTER -->
 ## Sqare wave inverter
 
-![Output waveform](images/Sqare.png"Output waveform)
+![Output waveform](images/Sqare.png"Output waveform")
 
 This type of inverters is the simplest and cheapest to make yet the least used because most appliances are designed to work with a sine wave AC input thus this type tend to have great power losses and may get the appliance damaged, so it's only used with simple tools and testing purposes
 
@@ -34,7 +34,7 @@ This type of inverters is the simplest and cheapest to make yet the least used b
 <!-- MODIFIED WAVE INVERTER -->
 ## Modified wave inverter
 
-![Output waveform](images/Modified.png"Output waveform)
+![Output waveform](images/Modified.png"Output waveform")
 
 This type of inverters is the most common, it features a circuitry more complex than the square wave inverter while being moderately priced. The output of this inverter better than that of the square wave inverters as it resembles the shape of a sine wave but can't output a pure sine wave so it's used to run appliances and equipment that is less sensitive to power fluctuations while being cost effective
 
@@ -45,7 +45,7 @@ This type of inverters is the most common, it features a circuitry more complex 
 <!-- SINE WAVE INVERTER -->
 ## Sine wave inverters
 
-![Output waveform](images/Sine.png"Output waveform)
+![Output waveform](images/Sine.png"Output waveform")
 
 This inverter is the best of all because it can output a pure sine wave that in some occasions cleaner than the output of the power grid, that's a major advantage of this inverter as most appliances are designed for a sine wave AC input. It's clean sine wave output can make you confident that it will work well on all AC appliances. A problem that some may find a deal breaker for them is the price, these inverters tend to be more expensive than other types of inverters so their use is limited in residential and commercial applications.
 
