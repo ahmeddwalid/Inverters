@@ -21,7 +21,7 @@
 
 
 <!-- SQUARE WAVE INVERTER -->
-## Sqare wave inverter
+## Square wave inverter
 
 ![Output waveform](images/Sqare.png"Output waveform")
 
